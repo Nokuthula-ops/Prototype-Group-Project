@@ -32,8 +32,8 @@ This project is licensed under the MIT License.
 
 AUTHORS:
 
-Norah Phindile Lebese
-Mpho Mahloane
-Nokuthula Ngcongo
-Xongile Baloyi
+Norah Phindile Lebese, 
+Mpho Mahloane, 
+Nokuthula Ngcongo, 
+Xongile Baloyi, 
 Kahleho Marite
